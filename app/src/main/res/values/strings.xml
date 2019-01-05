@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ManualCaller</string>
+    <string name="searchtype1">hot</string>
+    <string name="searchtype2">warm</string>
+    <string name="searchtype3">cold</string>
+    <string name="subject">this is the subject</string>
+    <string name="body">this is the body</string>
+</resources>
